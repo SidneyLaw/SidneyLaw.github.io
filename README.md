@@ -1,2 +1,2 @@
-# SidneyLaw.github.io
-Creative Computing Class Site 
+# Sidney's {CC} Site
+Creative Computing 
